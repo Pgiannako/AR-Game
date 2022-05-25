@@ -26,13 +26,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/biliard table 5.unity
     guid: 17c6f9eb239dc4d4486cd296ab59ba9f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/biliard table 6.unity
     guid: 30c7c1d0eb0d92941a302d3234c4bea6
   - enabled: 0
     path: Assets/Scenes/Transition.unity
     guid: 97354c17954c6dc468034be81f0cb315
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/golf course.unity
     guid: 524336ec04e46d344bd5bde860963382
   - enabled: 0
