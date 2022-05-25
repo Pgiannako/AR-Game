@@ -44,7 +44,7 @@ public class ResultConditions : MonoBehaviour
             else if(name == "biliard table 6")  // unique win condition for scene 6
             {
                 ballCounter += 1;
-                if (ballCounter == 6)
+                if (ballCounter == 4)
                 {
                     winUI.SetActive(true);
                     Debug.Log("win");
